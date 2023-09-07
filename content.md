@@ -15,7 +15,7 @@ LTI{Load Classroom Queries Debug assignment}(https://grades.firstdraft.com/launc
 
 Then, fork the repository and create your Codespace. Start your live app preview with `bin/dev` once the Codespace is setup.
 
-You should keep the [`ActiveRecord` reading handy](https://learn.firstdraft.com/lessons/127); it's a good reference. You can also look back at your MSM Queries and GUI projects to see how you queried and built forms there.
+You should keep the [Contact Book `ActiveRecord` reading handy](https://learn.firstdraft.com/lessons/130-contact-book-first-database); it's a good reference. You can also look back at your Must See Movies Queries and GUI projects to see how you queried and built forms there.
 
 When you are ready to get automated feedback run `rake grade`. Before you run `rake grade` you should try and manually match the target; don't rely on `rake grade` to debug; **the better errors page is going to be much more helpful for debugging your starter code.**
 
